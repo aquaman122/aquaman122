@@ -4,6 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquaman122)](https://github.com/anuraghazra/github-readme-stats)
 
-## velog 바로가기: [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=aquaman122)](https://velog.io/@eungyeole) 
+## velog 바로가기: [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=aquaman122)]
 
 잘 부탁드립니다.
