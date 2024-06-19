@@ -6,19 +6,34 @@
 
 ## velog 바로가기: [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=aquaman122)](https://velog.io/@aquaman122/posts)
 
+
 <details>
-<summary>javascript-webgame</summary>
-<ul>
-    <li><a href="https://github.com/aquaman122/javascript-webgame">javascript-webgame GitHub</a></li>
-</ul>
+    <summary>React + TypeScript + nodeJs + express</summary>
+    <ul>
+        <li><a href="https://github.com/aquaman122/book_store_project">BookStoreProject GitHub</a></li>
+    </ul>
 </details>
 
+<details>
+    <summary>React + TypeScript</summary>
+    <ul>
+        <li><a href="https://github.com/aquaman122/IMDb-clone">IMDb-Clone GitHub</a></li>
+        <li><a href="https://github.com/aquaman122/instagram-clone">Instagram-Clone GitHub</a></li>
+    </ul>
+</details>
 
 <details>
-<summary>React + Firebase</summary>
-<ul>
-    <li><a href="https://github.com/aquaman122/everyDay/tree/main/amazon-react">Amazon-Clone GitHub</a></li>
-</ul>
+    <summary>React + Firebase</summary>
+    <ul>
+        <li><a href="https://github.com/aquaman122/everyDay/tree/main/amazon-react">Amazon-Clone GitHub</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>javascript-webgame</summary>
+    <ul>
+        <li><a href="https://github.com/aquaman122/javascript-webgame">javascript-webgame GitHub</a></li>
+    </ul>
 </details>
 
 잘 부탁드립니다.
