@@ -6,6 +6,12 @@
 
 ## velog 바로가기: [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=aquaman122)](https://velog.io/@aquaman122/posts)
 
+<details>
+    <summary>팀 프로젝트</summary>
+    <ul>
+        <li><a href="https://github.com/ingame-app/ingame">InGame</a></li>
+    </ul>
+</details>
 
 <details>
     <summary>React + TypeScript + nodeJs + express</summary>
