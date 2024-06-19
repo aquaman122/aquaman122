@@ -8,7 +8,17 @@
 
 <details>
 <summary>javascript-webgame</summary>
- github: https://github.com/aquaman122/javascript-webgame
+<ul>
+    <li><a href="https://github.com/aquaman122/javascript-webgame">javascript-webgame GitHub</a></li>
+</ul>
+</details>
+
+
+<details>
+<summary>React + Firebase</summary>
+<ul>
+    <li><a href="https://github.com/aquaman122/everyDay/tree/main/amazon-react">Amazon-Clone GitHub</a></li>
+</ul>
 </details>
 
 잘 부탁드립니다.
