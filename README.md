@@ -1,5 +1,6 @@
 ### 🙏 안녕하세요, 프론트엔드 개발자 장석원입니다.
 ### ✨ [포트폴리오](https://www.notion.so/64a1db84d3694bc4b557847f50211474)
+### ✨ [Velog](https://velog.io/@aquaman122/posts)
 
 ### ✨ Projects
 - 오케이마트 자사 서비스 자동화 플랫폼 구축(2025. 06 ~ ) - [FE Repository](https://github.com/GopediaPro/neunexus_login)
@@ -11,3 +12,6 @@
 ### ✨ Activities
 - IT 사이드 프로젝트 동아리, JECT (2024. 06 ~ 2025. 01)
 - 타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) 1기(2023. 11 ~ 2024. 05)
+
+### Commit
+![aquaman122's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquaman122&count_private=true)
