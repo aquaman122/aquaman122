@@ -3,7 +3,7 @@
 ### ✨ [Velog](https://velog.io/@aquaman122/posts)
 
 ### ✨ Projects
-- 오케이마트 자사 서비스 자동화 플랫폼 구축(2025. 06 ~ ) - [FE Repository](https://github.com/GopediaPro/neunexus_login)
+- 오케이마트 자사 서비스 자동화 플랫폼 구축(2025. 06 ~ 10) - [FE Repository](https://github.com/GopediaPro/neunexus_login)
 - auto-reports(n8n을 활용한 음성 자동 요약 서비스)(2025.06 ~ 2025.07) - [BE Repository](https://github.com/aquaman122/auto-report)
 - ProQ-Noti, 프로 솔로랭크 알리미 서비스(2025. 02 ~ 2025. 06) - [FE Repository](https://github.com/SamBaekSu/ProQ-Noti)
 - 치즈마켓,중고경매 사이트(2024. 07 ~ 2025. 01) - [FE Repository](https://github.com/JECT-Study/Chzz-Market-Frontend)
