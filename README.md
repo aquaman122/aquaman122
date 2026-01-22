@@ -12,6 +12,3 @@
 ### ✨ Activities
 - IT 사이드 프로젝트 동아리, JECT (2024. 06 ~ 2025. 01)
 - 타입스크립트로 함께하는 웹 풀 사이클 개발(React, Node.js) 1기(2023. 11 ~ 2024. 05)
-
-### Commit
-![aquaman122's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquaman122&count_private=true)
