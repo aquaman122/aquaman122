@@ -1,4 +1,4 @@
-### 🙏 안녕하세요, 프론트엔드 개발자 장석원입니다.
+### 🙏 안녕하세요, 장석원입니다....
 ### ✨ [포트폴리오](https://www.notion.so/64a1db84d3694bc4b557847f50211474)
 ### ✨ [Velog](https://velog.io/@aquaman122/posts)
 
