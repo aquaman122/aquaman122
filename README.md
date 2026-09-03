@@ -1,5 +1,5 @@
 ### 🙏 안녕하세요, 장석원입니다....
-### ✨ [포트폴리오](https://www.notion.so/64a1db84d3694bc4b557847f50211474)
+### ✨ [포트폴리오]([https://www.notion.so/64a1db84d3694bc4b557847f50211474](https://app.notion.com/p/3d030f0adc5881308de0e740b205fcf9))
 ### ✨ [Velog](https://velog.io/@aquaman122/posts)
 
 ### ✨ Projects
